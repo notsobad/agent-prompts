@@ -12,12 +12,6 @@ This repository contains a collection of well-crafted prompts designed to enhanc
 - Each prompt includes context and usage instructions
 - Templates for common development scenarios
 
-## Usage
-
-1. Browse the collection to find relevant prompts
-2. Copy and adapt prompts for your specific needs
-3. Customize parameters and context as required
-
 ## Contributing
 
 Feel free to contribute new prompts or improvements to existing ones. Please ensure prompts are well-documented and tested.
